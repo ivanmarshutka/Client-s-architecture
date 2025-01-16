@@ -1,0 +1,9 @@
+If you do not have Python installed already:
+Download Python | Python.org
+Important: On the first screen, check the box for "Add Python to PATH" at the bottom.
+
+Go to command prompt 
+Go to directory where you saved the clients.py file
+Run python clients.py
+And you will have a list of our clients, you can choose them by the number or the name.
+After you are done, it will save each client to a separate text file in a folder called company_details
